@@ -45,10 +45,10 @@ High river bacteria levels do not mean tap water is unsafe. This is a screening 
 
 ```
 python -m venv .venv
-source .venv/Scripts/activate   # Windows Git Bash; use .venv/bin/activate on Mac/Linux
+source .venv/Scripts/activate   
 pip install -r requirements.txt
-python setup_data.py            # optional: refresh drinking-water data
-python water_quality.py         # optional: refresh surface-water data
+python setup_data.py            
+python water_quality.py         
 streamlit run app.py
 ```
 
