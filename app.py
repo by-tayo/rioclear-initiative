@@ -59,7 +59,7 @@ COUNTY_COLORS = {
     "Cameron": "#4f9da6",
 }
 
-st.set_page_config(page_title="Rio Grande Water Surveillance", page_icon="💧", layout="wide")
+st.set_page_config(page_title="RioClear Initiative", page_icon="💧", layout="wide")
 
 st.markdown(
     f"""
