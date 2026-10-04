@@ -1,0 +1,69 @@
+site_id,site_name,org,lat,lon,county
+USGS-08364000,"RIO GRANDE AT EL PASO, TX",USGS New Mexico Water Science Center,31.80288488,-106.5408218,El Paso
+USGS-08475000,"Rio Grande nr Brownsville, TX",USGS Texas Water Science Center,25.87674793,-97.454426,Cameron
+ADVENTURESCIENTISTS-28.98.103.18,Rio Grande Wild and Scenic River (Texas)-28.98.103.18,Adventure Scientists (Volunteer)*,28.9828968,-103.1832692,Brewster
+ADVENTURESCIENTISTS-29.04.103.11,Rio Grande Wild and Scenic River (Texas)-29.04.103.11,Adventure Scientists (Volunteer)*,29.0439361,-103.1053609,Brewster
+ADVENTURESCIENTISTS-29.18.102.99,Rio Grande Wild and Scenic River (Texas)-29.18.102.99,Adventure Scientists (Volunteer)*,29.18062311,-102.9931488,Brewster
+NARS_WQX-NRS_TX-10324,Chacon Creek,EPA National Aquatic Resources Survey (NARS),27.52540384,-99.4485389,Webb
+NARS_WQX-NRS_TX-10350,NRS_TX-10350,EPA National Aquatic Resources Survey (NARS),26.13899916,-97.73620166,Cameron
+TCEQMAIN-13074,ARROYO COLORADO /PT.HARLINGEN,Texas Commission on Environmental Quality,26.1949,-97.6016,Cameron
+TCEQMAIN-13079,ARROYO COLORADO AT US 77,Texas Commission on Environmental Quality,26.1735,-97.7008,Cameron
+TCEQMAIN-13081,ARROYO COLORADO MAIN FLOODWAY,Texas Commission on Environmental Quality,26.1197,-97.961,Hidalgo
+TCEQMAIN-13084,ARROYO COLORADO AT US 281,Texas Commission on Environmental Quality,26.1473,-98.192,Hidalgo
+TCEQMAIN-13103,LOS OLMOS CREEK AT US 83,Texas Commission on Environmental Quality,26.3615,-98.7863,Starr
+TCEQMAIN-13104,LOS OLMOS CREEK AT SH 755,Texas Commission on Environmental Quality,26.3886,-98.8057,Starr
+TCEQMAIN-13109,INDEPENDENCE CK NR CHANDLER,Texas Commission on Environmental Quality,30.45,-101.7317,Terrell
+TCEQMAIN-13116,MANADAS CREEK AT FM 1472,Texas Commission on Environmental Quality,27.5753,-99.5058,Webb
+TCEQMAIN-13176,RIO GRANDE RIVER TIDAL AT THE END OF QUICKSILVER AVE,Texas Commission on Environmental Quality,25.9596,-97.2277,Cameron
+TCEQMAIN-13177,RIO GRANDE AT EL JARDIN PUMP,Texas Commission on Environmental Quality,25.8787,-97.4546,Cameron
+TCEQMAIN-13179,RIO GRANDE AT RIVER BEND GOLF COURSE BOAT RAMP,Texas Commission on Environmental Quality,25.9537,-97.5749,Cameron
+TCEQMAIN-13181,RIO GRANDE RIVER AT US 281/INTERNATIONAL BLVD,Texas Commission on Environmental Quality,26.0956,-98.2719,Hidalgo
+TCEQMAIN-13189,FALCON LAKE AT BM 1,Texas Commission on Environmental Quality,26.58,-99.1706,Zapata
+TCEQMAIN-13196,RIO GRANDE BELOW LAREDO,Texas Commission on Environmental Quality,27.4036,-99.4869,Webb
+TCEQMAIN-13223,RIO GRANDE AT FOSTER RANCH,Texas Commission on Environmental Quality,29.7801,-101.7576,Val Verde
+TCEQMAIN-13228,RIO GRANDE AT SANTA ELENA CNYN,Texas Commission on Environmental Quality,29.1667,-103.5542,Brewster
+TCEQMAIN-13229,RIO GRANDE BELOW RIO CONCHOS,Texas Commission on Environmental Quality,29.519,-104.2866,Presidio
+TCEQMAIN-13230,RIO GRANDE ABOVE RIO CONCHOS,Texas Commission on Environmental Quality,29.6037,-104.4521,Presidio
+TCEQMAIN-13237,DEVILS R AT PAFFORD CROSSING,Texas Commission on Environmental Quality,29.6833,-101.0,Val Verde
+TCEQMAIN-13239,DEVILS RIVER NEAR DOLAN CREEK,Texas Commission on Environmental Quality,29.9,-100.9978,Val Verde
+TCEQMAIN-13270,SAN FELIPE CK AT GUYLER CONFL.,Texas Commission on Environmental Quality,29.3308,-100.8892,Val Verde
+TCEQMAIN-13271,SAN FELIPE CREEK AT US 277,Texas Commission on Environmental Quality,29.3666,-100.8852,Val Verde
+TCEQMAIN-13272,RIO GRANDE AT COURCHESNE BRDG,Texas Commission on Environmental Quality,31.8028,-106.5403,El Paso
+TCEQMAIN-13274,RIO GRANDE AT BORDERLAND ROAD,Texas Commission on Environmental Quality,31.8858,-106.5989,El Paso
+TCEQMAIN-13275,RIO GRANDE AT VINTON BRIDGE,Texas Commission on Environmental Quality,31.9589,-106.605,El Paso
+TCEQMAIN-13276,RIO GRANDE ABOVE ANTHONY DRAIN,Texas Commission on Environmental Quality,31.9686,-106.6066,El Paso
+TCEQMAIN-13285,PORT ISABEL AT SH 100,Texas Commission on Environmental Quality,26.0729,-97.2138,Cameron
+TCEQMAIN-13664,RIO GRANDE BELOW ANZALDUAS,Texas Commission on Environmental Quality,26.1316,-98.3309,Hidalgo
+TCEQMAIN-13835,AMISTAD RESERVOIR AT BUOY 1,Texas Commission on Environmental Quality,29.4583,-101.0572,Val Verde
+TCEQMAIN-14164,PECOS RIVER 2.98 KM ABOVE INDEPENDENCE CREEK,Texas Commission on Environmental Quality,30.4634,-101.7309,Terrell
+TCEQMAIN-14942,DOLAN SPRGS AT DEVILS R CONFL,Texas Commission on Environmental Quality,29.8864,-100.9917,Val Verde
+TCEQMAIN-15089,RIO GRANDE RIVER SMELTERTOWN,Texas Commission on Environmental Quality,31.7869,-106.5267,El Paso
+TCEQMAIN-15274,RIO GRANDE AT IBWC WEIR DAM,Texas Commission on Environmental Quality,28.3442,-100.3112,Maverick
+TCEQMAIN-15340,RIO GRANDE BELOW AMISTAD RES,Texas Commission on Environmental Quality,29.4242,-101.0411,Val Verde
+TCEQMAIN-15528,RIO GRANDE 1.3KM DWNSTRM WWTP,Texas Commission on Environmental Quality,31.7528,-106.4189,El Paso
+TCEQMAIN-15816,RIO GRANDE AT RIO BRAVO,Texas Commission on Environmental Quality,27.3339,-99.5081,Webb
+TCEQMAIN-15818,FALCON RES AT SAN YGNACIO WTP,Texas Commission on Environmental Quality,27.0433,-99.4442,Zapata
+TCEQMAIN-15821,SAN FELIPE CK AT BLUEHOLE GATE,Texas Commission on Environmental Quality,29.3692,-100.8836,Val Verde
+TCEQMAIN-15892,AMISTAD RESERV RIO GRANDE ARM,Texas Commission on Environmental Quality,29.6253,-101.2511,Val Verde
+TCEQMAIN-15893,AMISTAD RESERV DEVILS R ARM,Texas Commission on Environmental Quality,29.6014,-100.9761,Val Verde
+TCEQMAIN-16379,PECOS RIVER BELOW US90W BRIDGE,Texas Commission on Environmental Quality,29.7036,-101.3617,Val Verde
+TCEQMAIN-16730,RIO GRANDE VILLAGE BOAT RAMP,Texas Commission on Environmental Quality,29.1794,-102.96,Brewster
+TCEQMAIN-17407,RIO GRANDE UPSTRM OF CANDELARI,Texas Commission on Environmental Quality,30.175,-104.6861,Presidio
+TCEQMAIN-17596,RIO GRANDE AT APACHE RANCH,Texas Commission on Environmental Quality,27.9345,-99.9254,Webb
+TCEQMAIN-18441,RIO GRANDE AT LAJITAS RESORT,Texas Commission on Environmental Quality,29.2645,-103.7829,Brewster
+TCEQMAIN-18801,LOWER PECOS RIVER CAMS 0729,Texas Commission on Environmental Quality,30.3141,-101.7412,Terrell
+TCEQMAIN-20449,RIO GRANDE RIVER AT BROWNSVILLE PUB WATER TREATMENT PLANT NUMBER 1 INTAKE BETWEEN WTP RESERVOIR AND RIO GRANDE LEVEE,Texas Commission on Environmental Quality,25.9186,-97.5291,Cameron
+TCEQMAIN-20930,NORTH FLOODWAY AT US 77,Texas Commission on Environmental Quality,26.3148,-97.7772,Cameron
+TCEQMAIN-20999,RIO GRANDE AT KICKAPOO CASINO BOAT RAMP SOUTH OF EAGLE PASS,Texas Commission on Environmental Quality,28.6249,-100.4465,Maverick
+TCEQMAIN-21012,RIO GRANDE RIVER OFF SHUERBACH ROAD CAMS 792,Texas Commission on Environmental Quality,26.1712,-98.364,Hidalgo
+TCEQMAIN-21542,RIO GRANDE AT EL CENIZO PARK,Texas Commission on Environmental Quality,27.3321,-99.5107,Webb
+TCEQMAIN-22118,CAMERON COUNTY DRAINAGE DISTRICT NO.1 (CCDD1) DITCH NO. 2 AT OLD PORT ISABEL ROAD,Texas Commission on Environmental Quality,26.0492,-97.398,Cameron
+TCEQMAIN-22120,CAMERON COUNTY DRAINAGE DISTRICT NO.1 (CCDD1) DITCH NO.1 AT THE BROWNSVILLE PUBLIC WORKS DEPARTMENT,Texas Commission on Environmental Quality,25.9429,-97.4366,Cameron
+TCEQMAIN-22121,CAMERON COUNTY DRAINAGE DISTRICT NO.1 (CCDD1) OLD MAIN DRAIN NO. 2 AT THE CITY OF BROWNSVILLE LANDFILL,Texas Commission on Environmental Quality,25.9365,-97.3783,Cameron
+TCEQMAIN-22170,SAN MARTIN LAKE MID ESTUARY,Texas Commission on Environmental Quality,26.0093,-97.3202,Cameron
+TCEQMAIN-22267,OUT OF STREAM PARKING LOT PUMICE BIOSWALE INFLOW AT UTRGV CAMPUS,Texas Commission on Environmental Quality,26.3087,-98.1743,Hidalgo
+TCEQMAIN-22268,OUT OF STREAM PARKING LOT PUMICE BIOSWALE OUTFLOW AT UTRGV CAMPUS,Texas Commission on Environmental Quality,26.3087,-98.1742,Hidalgo
+TCEQMAIN-22269,OUT OF STREAM PARKING LOT MANUFACTURED SAND BIOSWALE INFLOW AT UTRGV CAMPUS,Texas Commission on Environmental Quality,26.3089,-98.1742,Hidalgo
+TCEQMAIN-22270,OUT OF STREAM PARKING LOT MANUFACTURED SAND BIOSWALE OUTFLOW AT UTRGV CAMPUS,Texas Commission on Environmental Quality,26.3088,-98.1741,Hidalgo
+TCEQMAIN-22401,HACKNEY LAKE INLET AT SOUTH JACKSON ROAD,Texas Commission on Environmental Quality,26.1436,-98.2133,Hidalgo
+TCEQMAIN-22402,RIO GRANDE RIVER BOAT LAUNCH AT HIDALGO CR 1598,Texas Commission on Environmental Quality,26.0672,-97.9794,Hidalgo
